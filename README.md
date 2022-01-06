@@ -1,2 +1,2 @@
 # gerenciamentoDeFuncionarios
-Projeto de gerenciamento de funcionários, agular e springboot
+Projeto de gerenciamento de funcionários, Angular e Springboot
